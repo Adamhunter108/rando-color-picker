@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rando-color-picker/static/css/main.1137f423.chunk.css",
+    "main.js": "/rando-color-picker/static/js/main.8aacb99a.chunk.js",
+    "main.js.map": "/rando-color-picker/static/js/main.8aacb99a.chunk.js.map",
+    "runtime-main.js": "/rando-color-picker/static/js/runtime-main.fc64ac32.js",
+    "runtime-main.js.map": "/rando-color-picker/static/js/runtime-main.fc64ac32.js.map",
+    "static/js/2.6251f422.chunk.js": "/rando-color-picker/static/js/2.6251f422.chunk.js",
+    "static/js/2.6251f422.chunk.js.map": "/rando-color-picker/static/js/2.6251f422.chunk.js.map",
+    "static/js/3.ccf82d74.chunk.js": "/rando-color-picker/static/js/3.ccf82d74.chunk.js",
+    "static/js/3.ccf82d74.chunk.js.map": "/rando-color-picker/static/js/3.ccf82d74.chunk.js.map",
+    "index.html": "/rando-color-picker/index.html",
+    "static/css/main.1137f423.chunk.css.map": "/rando-color-picker/static/css/main.1137f423.chunk.css.map",
+    "static/js/2.6251f422.chunk.js.LICENSE.txt": "/rando-color-picker/static/js/2.6251f422.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc64ac32.js",
+    "static/js/2.6251f422.chunk.js",
+    "static/css/main.1137f423.chunk.css",
+    "static/js/main.8aacb99a.chunk.js"
+  ]
+}
