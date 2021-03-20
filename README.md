@@ -1,5 +1,4 @@
-# rando-color-picker 
-:art:
+# rando-color-picker :art:
 
 ---
 ###### About:
