@@ -1,6 +1,5 @@
 # rando-color-picker  :art:
 
----
 ###### About:
 
 Random background color generator that will display rbg value of the color and includes a refresh button for unlimited color generating.  Built in React and deployed to GitHub Pages.
