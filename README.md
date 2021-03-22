@@ -2,7 +2,7 @@
 
 ###### About:
 
-Random background color generator that will display rbg value of the color and includes a refresh button for unlimited color generating.  Built in React and deployed to GitHub Pages.
+Random background color generator that displays the rbg value of a color and includes a refresh button for unlimited color generating.  Built in React and deployed to GitHub Pages.
 
 ---
 
